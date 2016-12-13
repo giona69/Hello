@@ -13,7 +13,7 @@ int main()
 
     scanf("%d", &y);
 
-    printf("La moltiplicazione dei due numeri e' %d\n", x+y);
+    printf("La moltiplicazione dei due numeri e' %d\n", x*y);
 
     return 0;
 }
